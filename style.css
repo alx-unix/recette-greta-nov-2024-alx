@@ -36,3 +36,17 @@ section .col2{
     justify-content: space-between;
     margin: 10px 0;
 }
+
+section form{
+    display: flex;
+    flex-direction: column;
+}
+
+section form *{
+    margin: 15px 0;
+    padding: 8px 4px;
+}
+
+section form textarea{
+    height: 80px;
+}
