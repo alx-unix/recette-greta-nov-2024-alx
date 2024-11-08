@@ -20,6 +20,7 @@ section{
     display: flex;
     justify-content: space-between;
 }
+
 section .col1{
     width: 48%;
 }
