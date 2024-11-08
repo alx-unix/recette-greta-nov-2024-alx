@@ -46,7 +46,7 @@ form{
 form > *:not(div){
     margin: 15px 0;
     padding: 8px 4px;
-    border : 1px solid blue ; 
+    border : 1px solid red ; 
 }
 
 form textarea{
@@ -78,7 +78,7 @@ header ul{ /* caller le menu en haut à droite */
     justify-content: flex-end;
 }
 
-header ul li { /* espace entre les liens et taille des liens*/
+header ul li { /* espace entre les liens et taille des liens */
     margin-left: 20px;
     font-size: 1.6rem;
 }
