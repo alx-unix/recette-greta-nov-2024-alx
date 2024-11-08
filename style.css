@@ -46,7 +46,7 @@ form{
 form > *:not(div){
     margin: 15px 0;
     padding: 8px 4px;
-    border : 1px solid blue ; 
+    border : 1px solid purple ; 
 }
 
 form textarea{
