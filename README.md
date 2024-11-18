@@ -40,3 +40,8 @@ git push
 ```
 
 code dans un paragraphe `git commit`
+
+## paragraphe avec saut de ligne 
+
+bonjour comment allez vous
+ça va bien 
