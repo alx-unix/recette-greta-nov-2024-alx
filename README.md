@@ -18,4 +18,10 @@ pour rédiger une article dans le site il faudra :
 1. rédiger en français en anglais
 
 
+liste des futures codages :
+
+1. [x] réaliser la page de connexion
+1. [] créer la base de données
+1. [] installer PHP 
+
 ### titre de niveau 3
